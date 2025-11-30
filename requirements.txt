@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+streamlit
+requests
+
+Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
